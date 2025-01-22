@@ -1,1 +1,0 @@
-Hexlet! Gow are you?
